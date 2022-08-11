@@ -1,0 +1,62 @@
+body
+{
+    font-family: arial;
+}
+header .container
+{
+   
+    padding: 30px;
+}
+header h3
+{
+    color: #AAA;
+    font-size: 30px;
+}
+.content
+{
+    margin: 15px;
+    padding: 30px;
+    background-color: #EEE;
+}
+
+.FormInput .wd-form
+{
+width: 80%;
+margin:0 auto ;
+}
+.FormInput p
+{
+ width: 80%;
+margin:0 auto ;
+background-color: #ffb2b2;
+color: #6d0000;
+border: 1px solid #6d0000;
+font-size: 18px;
+font-weight: bold;
+}
+
+.FormInput label
+{
+    font-weight: bold;
+    color: #333;
+}
+#BookmarkList .Bookmarks-name
+{
+    margin: 15px;
+    padding: 30px;
+    background-image: linear-gradient(#eee,#fff);
+}
+.Bookmarks-name h2
+{
+    width: 30%;
+    color: #333;
+}
+.Bookmarks-name a
+{
+padding: 10px 15px;
+}
+footer p {
+    color: #AAA;
+    font-size: 14px;
+    margin: 14px 0;
+}
